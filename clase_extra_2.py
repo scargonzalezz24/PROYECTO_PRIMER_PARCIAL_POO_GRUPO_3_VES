@@ -2,7 +2,7 @@
 ========================================================
 PROYECTO_PRIMER_PARCIAL_POO_GRUPO_3
 --------------------------------------------------------
-Archivo: GestorEventos.py
+Archivo: clase_extra_2.py
 
 Descripción:
 Clase encargada de administrar todos los
