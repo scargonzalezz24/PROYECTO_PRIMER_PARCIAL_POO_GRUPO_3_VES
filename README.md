@@ -170,9 +170,8 @@ def calcular_total(self):
 ## Instalación y uso
 
 ```bash
-git clone https://github.com/raul-rabascall/ProyectoPOO_Parcial1.git
+git clone [https://github.com/raul-rabascall/ProyectoPOO_Parcial1.gi](https://github.com/scargonzalezz24/PROYECTO_PRIMER_PARCIAL_POO_GRUPO_3_VES.git)t
 ```
-
 Abrir la carpeta en PyCharm y ejecutar:
 
 ```bash
