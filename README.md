@@ -167,7 +167,6 @@ def calcular_total(self):
 - Git instalado en el sistema
 
 ---
-
 ## Instalación y uso
 
 ```bash
@@ -181,13 +180,16 @@ python main.py
 ```
 
 ---
-
 ## Evidencias
-<!-- Agregar capturas de pantalla de la ejecución mostrando fecha y hora del sistema -->
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/09e49a95-48ae-4f74-b98a-97417e7cd0d1" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/34cfe274-0f41-44d9-8eca-1453d31316fb" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/a407fb66-badd-45ae-9ab3-f3279fdb626e" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/3d9352ca-67fe-4526-b68f-4753e1c049b7" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/ebaaf093-cbf5-4500-8c78-0bad532dc9b1" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/336988d0-2d48-42cd-93a0-b8cc3d3323da" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/134a3be4-2a19-4d9c-a6d2-0cf339f720ef" />
 
 ---
-
 ## Video explicativo
 <!-- Agregar enlace al video de máximo 2 minutos con permisos de visualización -->
 
