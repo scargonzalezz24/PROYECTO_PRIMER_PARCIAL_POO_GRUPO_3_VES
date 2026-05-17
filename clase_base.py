@@ -9,7 +9,7 @@
 ========================================================
 PROYECTO_PRIMER_PARCIAL_POO_GRUPO_3
 --------------------------------------------------------
-Archivo: ServicioEvento.py
+Archivo: clase_base.py
 
 Descripción:
 Clase base del sistema de gestión de eventos.
