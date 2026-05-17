@@ -193,7 +193,9 @@ python main.py
 <!-- Agregar enlace al video de máximo 2 minutos con permisos de visualización -->
 
 ---
-
 ## Integrantes — Grupo 3
-
--
+- Bajaña Ordeñana Lervith Alexander
+- González Rodriguez Scarlet Anabella
+- Guzman 
+- Robins Barros Emeli Carina
+- Rabascall 
